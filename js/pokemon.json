@@ -1,0 +1,71 @@
+[{
+    "id": 0,
+    "name": "Pikachu",
+    "src": "https://img.pokemondb.net/sprites/x-y/normal/pikachu.png",
+    "level": 17,
+    "hp": {
+      "current": 200,
+      "max": 200
+    },
+    "moves": [{
+        "title": "Quick Attack",
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+      },
+      {
+        "title": "Thunder Shock",
+        "type": "electric",
+        "power": 40,
+        "accuracy": 100
+      },
+      {
+        "title": "Thunder Bolt",
+        "type": "electric",
+        "power": 90,
+        "accuracy": 100
+      },
+      {
+        "title": "Spark",
+        "type": "normal",
+        "power": 65,
+        "accuracy": 100
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "src": "https://img.pokemondb.net/sprites/x-y/normal/bulbasaur.png",
+    "level": 17,
+    "hp": {
+      "current": 200,
+      "max": 200
+    },
+    "moves": [{
+        "title": "Tackle",
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+      },
+      {
+        "title": "Solar Beam",
+        "type": "grass",
+        "power": 120,
+        "accuracy": 100
+      },
+      {
+        "title": "Seed Bomb",
+        "type": "grass",
+        "power": 80,
+        "accuracy": 100
+      },
+      {
+        "title": "Vine Whip",
+        "type": "grass",
+        "power": 45,
+        "accuracy": 100
+      }
+    ]
+  }
+]
